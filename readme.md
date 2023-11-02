@@ -57,9 +57,7 @@
 
 ## About The Project
 
-[![Product Screen Shot][README/screenshot.png]](https://github.com/BonjourYY/git-demo)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+![Product Screen Shot](/README/screenshot.png)
 
 ### Built With
 
@@ -71,8 +69,6 @@
 - [![Laravel][Laravel.com]][Laravel-url]
 - [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 - [![JQuery][JQuery.com]][JQuery-url]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
@@ -104,15 +100,11 @@ This is an example of how to list things you need to use the software and how to
    git log
    ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- USAGE EXAMPLES -->
 
 ## Usage
 
 _For more examples, please refer to the [Documentation](https://github.com/BonjourYY/git-demo)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ROADMAP -->
 
@@ -131,8 +123,6 @@ _For more examples, please refer to the [Documentation](https://github.com/Bonjo
 
 See the [open issues](https://github.com/BonjourYY/git-demo/issues) for a full list of proposed features (and known issues).
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- CONTRIBUTING -->
 
 ## Contributing
@@ -148,33 +138,25 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- LICENSE -->
 
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- CONTACT -->
 
 ## Contact
 
-Email - fqymtu@gmail.com
+Email: fqymtu@gmail.com
 
 Project Link: [https://github.com/BonjourYY/git-demo](https://github.com/BonjourYY/git-demo)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
 
 ## Acknowledgments
 
 - [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- 脚注 -->
 
